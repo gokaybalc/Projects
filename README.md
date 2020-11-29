@@ -1,2 +1,2 @@
 # Projects
-This is my personal repository to upload basic codes that I wrote
+This is a program that finds n'th of any non-negative number. 
